@@ -19,7 +19,7 @@ INTRUKSI INSTALL DAN MENJALANKAN APLIKASI
 
 1. Install sebuah database server MySQL (bisa menggunakan server database Xampp atau yang lain)
 2. Install software pendukung dari database server (phpMyAdmin/DBeaver)
-3. Download seluruh file pada Github dengan berekstensi <a href="">zip/rar</a>
+3. Download seluruh file pada Github dengan berekstensi <a href="https://drive.google.com/file/d/16V3-_mNV6hVaCIzGtLBIhOFq31T-gmKT/view?usp=sharing">zip/rar</a>
 4. Ekstrak seluruh file FPDWO_Kelompok10 yang telah didownload ke folder loacalhost dari htdocs (xampp/htdocs)
 5. Jalankan software Xampp Control Panel
 6. Start module Apache dan MySQL service
